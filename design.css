@@ -1,0 +1,138 @@
+body{
+  background-color: wheat;
+}
+#navbar {
+  height: 60px;
+  background-color: black;
+}
+button {
+  color: black;
+  background-color: rgb(211, 122, 20);
+  display: inline;
+}
+#logo {
+  font-size: 25px;
+  color: orange;
+  display: inline;
+}
+p {
+  color: white;
+  margin-right: 200px;
+  text-decoration: none;
+  display: inline;
+}
+#content {
+  margin-top: 10px;
+  height: 950px;
+}
+.contentBox1 {
+  color: white;
+  background-image: url(prime.jpg);
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  display: inline-block;
+}
+.contentBox2 {
+  background-image: url(home.jpg);
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  display: inline-block;
+}
+.contentBox3 {
+  color: white;
+  background-image: url(appliances.jpg);
+  background-size: cover;
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  display: inline-block;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  background-color: black;
+}
+#first{
+  color: black;
+  display: inline;
+  height: 10px;
+  width: 50px;
+  margin-left: 0px;
+  text-decoration: bolder;
+ 
+}
+a{
+  color: black;
+  display: inline;
+  height: 10px;
+  width: 50px;
+  text-decoration: bolder;
+  margin-left:10%;
+  margin-top:100px ;
+
+}
+.box{
+  color: white;
+  text-decoration: bolder;
+  font-size: 20px;
+  background-image: url(primevideo.jpg);
+  background-size:contain;
+  border: 2px solid white;
+  margin-top: 15px;
+  margin-left: 0;
+  height: 350px;
+  width: 615px
+}
+.box2{
+  height:390px ;
+  width: 390px;
+  background-color:white;
+  border: 2px, white;
+}
+#subbox1{
+  height: 150px;
+  width: 150px;
+  background-image: url(heels.jpg);
+  background-size: cover;
+  display:inline-block;
+  background-color: black;
+  margin: 20px 20px 10px 10px;
+  border: 2px black;
+}
+#subbox2{
+  height: 150px;
+  width: 150px;
+  background-image: url(phone.webp);
+  background-size: cover;
+  display:inline-block;
+  background-color: black;
+  margin: 20px 20px 10px 10px;
+  border: 2px black;
+}
+#subbox3{
+  height: 150px;
+  width: 150px;
+  background-image: url(kurta.jpg);
+  background-size: cover;
+  display:inline-block;
+  background-color: black;
+  margin: 20px 20px 10px 10px;
+  border: 2px black;
+}
+
+#subbox4{
+  height: 150px;
+  width: 150px;
+  background-image: url(plant.jpg);
+  background-size: cover;
+  display:inline-block;
+  background-color: black;
+  margin: 20px 20px 10px 10px;
+  border: 2px black;
+}
+
